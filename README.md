@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @humayun89
+- 👋 Hi, I’m Humayun Rashid Chowdhury
 - 👀 I’m interested in Data Analysis.
 - 🌱 I’m currently learning Python from Udemy.
 - 💞️ I’m looking for opportunities in collaboration with related field.
